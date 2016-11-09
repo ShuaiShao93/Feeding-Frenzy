@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 19 17:36:51 CST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=\u5927\u9C7C\u5403\u5C0F\u9C7C.jar
+manifest.mergeall=true
+manifest.mainclass=MainGame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
